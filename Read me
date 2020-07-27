@@ -1,0 +1,1 @@
+This is a simple C# app that calculates Matthews Correlation Coefficient based on the user's input values (true positives, true negatives, false positives, false negatives). 
